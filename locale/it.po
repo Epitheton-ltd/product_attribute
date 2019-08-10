@@ -2,142 +2,164 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-msgctxt "error:product.attribute:"
-msgid "Invalid domain in schema \"%(schema)s\"."
-msgstr ""
-
+#, fuzzy
 msgctxt "field:product.attribute,create_date:"
 msgid "Create Date"
-msgstr "Létrehozás dátuma"
+msgstr "Data di creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute,create_uid:"
 msgid "Create User"
-msgstr "Által létrehozva"
+msgstr "Utente creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute,digits:"
 msgid "Digits"
-msgstr "Számjegyek"
+msgstr "Posizioni"
 
 msgctxt "field:product.attribute,domain:"
 msgid "Domain"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:product.attribute,id:"
 msgid "ID"
-msgstr "ID"
+msgstr "Movimento contabile"
 
+#, fuzzy
 msgctxt "field:product.attribute,name:"
 msgid "Name"
-msgstr "Név"
+msgstr "Nome"
 
 msgctxt "field:product.attribute,rec_name:"
 msgid "Record Name"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:product.attribute,selection:"
 msgid "Selection"
-msgstr "Kiválasztás"
+msgstr "Selezione"
 
 msgctxt "field:product.attribute,selection_json:"
 msgid "Selection JSON"
-msgstr "Kijelölés JSON"
+msgstr ""
 
 msgctxt "field:product.attribute,selection_sorted:"
 msgid "Selection Sorted"
-msgstr "Válogatott kiválasztás"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:product.attribute,sets:"
 msgid "Sets"
-msgstr "Rész"
+msgstr "Imposta"
 
+#, fuzzy
 msgctxt "field:product.attribute,string:"
 msgid "String"
-msgstr "Karakterlánc"
+msgstr "Stringa"
 
+#, fuzzy
 msgctxt "field:product.attribute,type_:"
 msgid "Type"
-msgstr "Típus"
+msgstr "Tipo"
 
+#, fuzzy
 msgctxt "field:product.attribute,write_date:"
 msgid "Write Date"
-msgstr "Utolsó módosítás dátuma"
+msgstr "Utente scrittura"
 
+#, fuzzy
 msgctxt "field:product.attribute,write_uid:"
 msgid "Write User"
-msgstr "Által módosítva"
+msgstr "modificato da"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,attribute:"
 msgid "Attribute"
-msgstr "Tulajdonságok"
+msgstr "Attributes"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,attribute_set:"
 msgid "Set"
-msgstr "Megad"
+msgstr "Imposta"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,create_date:"
 msgid "Create Date"
-msgstr "Létrehozás dátuma"
+msgstr "Data di creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,create_uid:"
 msgid "Create User"
-msgstr "Által létrehozva"
+msgstr "Utente creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,id:"
 msgid "ID"
-msgstr "ID"
+msgstr "Movimento contabile"
 
 msgctxt "field:product.attribute-product.attribute-set,rec_name:"
 msgid "Record Name"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,write_date:"
 msgid "Write Date"
-msgstr "Utolsó módosítás dátuma"
+msgstr "Utente scrittura"
 
+#, fuzzy
 msgctxt "field:product.attribute-product.attribute-set,write_uid:"
 msgid "Write User"
-msgstr "Által módosítva"
+msgstr "modificato da"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,attributes:"
 msgid "Attributes"
-msgstr "Tulajdonságok"
+msgstr "Attributes"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,create_date:"
 msgid "Create Date"
-msgstr "Létrehozás dátuma"
+msgstr "Data di creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,create_uid:"
 msgid "Create User"
-msgstr "Által létrehozva"
+msgstr "Utente creazione"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,id:"
 msgid "ID"
-msgstr "ID"
+msgstr "Movimento contabile"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,name:"
 msgid "Name"
-msgstr "Név"
+msgstr "Nome"
 
 msgctxt "field:product.attribute.set,rec_name:"
 msgid "Record Name"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:product.attribute.set,write_date:"
 msgid "Write Date"
-msgstr "Utolsó módosítás dátuma"
+msgstr "Utente scrittura"
 
+#, fuzzy
 msgctxt "field:product.attribute.set,write_uid:"
 msgid "Write User"
-msgstr "Által módosítva"
+msgstr "modificato da"
 
 #, fuzzy
 msgctxt "field:product.product,attribute_set:"
 msgid "Attribute Set"
 msgstr "Attribute Sets"
 
+#, fuzzy
 msgctxt "field:product.product,attributes:"
 msgid "Attributes"
-msgstr "Tulajdonságok"
+msgstr "Attributes"
 
 #, fuzzy
 msgctxt "field:product.template,attribute_set:"
@@ -176,7 +198,6 @@ msgctxt "help:product.template,attribute_set:"
 msgid "Select a set of attributes to apply on the variants."
 msgstr ""
 
-#, fuzzy
 msgctxt "model:ir.action,name:act_attribute_form"
 msgid "Attributes"
 msgstr "Attributes"
@@ -185,7 +206,6 @@ msgctxt "model:ir.action,name:act_attribute_set_form"
 msgid "Attribute Sets"
 msgstr "Attribute Sets"
 
-#, fuzzy
 msgctxt "model:ir.ui.menu,name:menu_attribute"
 msgid "Attributes"
 msgstr "Attributes"
@@ -196,31 +216,33 @@ msgstr "Attribute Sets"
 
 msgctxt "model:product.attribute,name:"
 msgid "Product Attribute"
-msgstr "Termékek jellemzői"
+msgstr ""
 
 msgctxt "model:product.attribute-product.attribute-set,name:"
 msgid "Product Attribute - Set"
-msgstr "Termék jellemzői"
+msgstr ""
 
 msgctxt "model:product.attribute.set,name:"
 msgid "Product Attribute Set"
-msgstr "Termék tulajdonság"
+msgstr ""
 
 msgctxt "selection:product.attribute,type_:"
 msgid "Boolean"
 msgstr ""
 
+#, fuzzy
 msgctxt "selection:product.attribute,type_:"
 msgid "Char"
-msgstr "Karakter"
+msgstr "Char"
 
+#, fuzzy
 msgctxt "selection:product.attribute,type_:"
 msgid "Date"
-msgstr "Dátum"
+msgstr "Data"
 
 msgctxt "selection:product.attribute,type_:"
 msgid "DateTime"
-msgstr "Dátum és idő"
+msgstr ""
 
 msgctxt "selection:product.attribute,type_:"
 msgid "Float"
@@ -228,25 +250,19 @@ msgstr ""
 
 msgctxt "selection:product.attribute,type_:"
 msgid "Integer"
-msgstr "Egész szám"
+msgstr ""
 
+#, fuzzy
 msgctxt "selection:product.attribute,type_:"
 msgid "Numeric"
-msgstr "Numerikus"
+msgstr "Numeric"
 
+#, fuzzy
 msgctxt "selection:product.attribute,type_:"
 msgid "Selection"
-msgstr "Kiválasztás"
+msgstr "Selezione"
 
 #, fuzzy
 msgctxt "view:product.template:"
 msgid "Attributes"
-msgstr "Tulajdonságok"
-
-msgctxt "view:product.attribute:"
-msgid "Attribute"
-msgstr "Tulajdonságok"
-
-msgctxt "view:product.attribute:"
-msgid "Attributes"
-msgstr "Tulajdonságok"
+msgstr "Attributes"
